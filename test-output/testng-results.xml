@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-15T16:12:47 IST" name="Suite" finished-at="2023-04-15T16:13:22 IST" duration-ms="35298">
+    <groups>
+    </groups>
+    <test started-at="2023-04-15T16:12:47 IST" name="Test" finished-at="2023-04-15T16:13:22 IST" duration-ms="35298">
+      <class name="JenkinsLayer.LaunchTestSalesForce">
+        <test-method signature="LaunchSF()[pri:0, instance:JenkinsLayer.LaunchTestSalesForce@46cdf8bd]" started-at="2023-04-15T16:12:57 IST" name="LaunchSF" finished-at="2023-04-15T16:13:14 IST" duration-ms="17779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchSF -->
+      </class> <!-- JenkinsLayer.LaunchTestSalesForce -->
+      <class name="JenkinsLayer.LaunchTestTwitter">
+        <test-method signature="LaunchTwitter()[pri:0, instance:JenkinsLayer.LaunchTestTwitter@60099951]" started-at="2023-04-15T16:12:47 IST" name="LaunchTwitter" finished-at="2023-04-15T16:12:57 IST" duration-ms="9789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchTwitter -->
+      </class> <!-- JenkinsLayer.LaunchTestTwitter -->
+      <class name="JenkinsLayer.LaunchTestFB">
+        <test-method signature="LaunchFB()[pri:0, instance:JenkinsLayer.LaunchTestFB@f0c8a99]" started-at="2023-04-15T16:13:14 IST" name="LaunchFB" finished-at="2023-04-15T16:13:22 IST" duration-ms="7642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchFB -->
+      </class> <!-- JenkinsLayer.LaunchTestFB -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
